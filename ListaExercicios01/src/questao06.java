@@ -23,7 +23,7 @@ public class questao06 {
 		// Area do circulo
 		areaCirculo = pi * (C * C);
 		
-		// Area trapezio
+		// Area do trapezio
 		areaTrapezio = (A + B) * C / 2.0;
 		
 		// Area do quadrado
